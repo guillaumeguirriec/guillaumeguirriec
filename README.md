@@ -1,5 +1,3 @@
-[![roadmap.sh](https://roadmap.sh/card/wide/67d601e0187996bfbac562d4?variant=dark&roadmaps=ai-engineer%2Cprompt-engineering%2Cai-data-scientist)](https://roadmap.sh)
-
 <!--
 **guillaumeguirriec/guillaumeguirriec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
